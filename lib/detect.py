@@ -11,7 +11,7 @@ def candidate_lines(image):
   c = find_edges(image)
   return probabilistic_hough_line(c, line_length=100)
 
-def hough_test(image):
+def hough_peaks(image):
   c = find_edges(image)
   angles = np.pi / 2 - np.arange(180) / 180.0 * np.pi
   hspace, angles, distances = hough_line(c, angles)
@@ -20,6 +20,3 @@ def hough_test(image):
 def detect_corners(image):
   c = canny(rgb2gray(image))
   return corner_peaks(corner_harris(c), min_distance=20)
-
-def detect_lines(image):
-  return candidate_lines(image)
