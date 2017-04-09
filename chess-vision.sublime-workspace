@@ -1,0 +1,2007 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"all",
+				"all_config"
+			],
+			[
+				"confi",
+				"config_file"
+			],
+			[
+				"sub",
+				"sub_directory"
+			],
+			[
+				"defulr",
+				"default_profile_name"
+			],
+			[
+				"aws",
+				"aws_credentials"
+			],
+			[
+				"banner",
+				"banner_image"
+			],
+			[
+				"geo",
+				"geometry"
+			],
+			[
+				"to",
+				"to_i"
+			],
+			[
+				"Reid",
+				"REDIS_KEY"
+			],
+			[
+				"Itemm",
+				"ItemmasterUpdateWorker"
+			],
+			[
+				"future",
+				"future_time"
+			],
+			[
+				"and",
+				"and_return"
+			],
+			[
+				"rate",
+				"rate_limited_end_time"
+			],
+			[
+				"promoc",
+				"promo_code"
+			],
+			[
+				"promoco",
+				"promotion_code"
+			],
+			[
+				"handl",
+				"handle_response_by_status_and_body"
+			],
+			[
+				"com",
+				"combined_manifest"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"root_cate",
+				"root_category_cache"
+			],
+			[
+				"paren",
+				"parent_category"
+			],
+			[
+				"Car",
+				"Category"
+			],
+			[
+				"root",
+				"root_category"
+			],
+			[
+				"descr",
+				"description"
+			],
+			[
+				"curren",
+				"currentSemvar"
+			],
+			[
+				"larg",
+				"largestSemver"
+			],
+			[
+				"lar",
+				"largestSemver"
+			],
+			[
+				"request",
+				"request_quantity"
+			],
+			[
+				"final",
+				"final_quantity"
+			],
+			[
+				"esimt",
+				"estimated_customer_total"
+			],
+			[
+				"fo",
+				"format_money_float"
+			],
+			[
+				"promo",
+				"promotion_savings"
+			],
+			[
+				"det",
+				"destroy"
+			],
+			[
+				"pri",
+				"product_image1"
+			],
+			[
+				"resoti",
+				"resolution"
+			],
+			[
+				"resos",
+				"resolutions"
+			],
+			[
+				"reso",
+				"resolution"
+			],
+			[
+				"prim",
+				"product_image2"
+			],
+			[
+				"im",
+				"image_url"
+			],
+			[
+				"ima",
+				"image1"
+			],
+			[
+				"prod",
+				"product_images"
+			],
+			[
+				"resolut",
+				"resolution"
+			],
+			[
+				"Com",
+				"Common"
+			],
+			[
+				"active",
+				"active_store"
+			],
+			[
+				"strin",
+				"string_b"
+			],
+			[
+				"seriz",
+				"serialize_error"
+			],
+			[
+				"storede",
+				"store_department"
+			],
+			[
+				"aisl",
+				"store_aisle"
+			],
+			[
+				"storepro",
+				"store_product"
+			],
+			[
+				"end",
+				"end_time"
+			],
+			[
+				"sor",
+				"sort_order"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"app",
+				"approximate_cost"
+			],
+			[
+				"orer",
+				"order_line_item"
+			],
+			[
+				"lie",
+				"line_item"
+			],
+			[
+				"esimsu",
+				"estimate_subtotal"
+			],
+			[
+				"reque",
+				"request_quantity"
+			],
+			[
+				"sosu",
+				"store_subtotal"
+			],
+			[
+				"fina",
+				"final_quantity"
+			],
+			[
+				"requ",
+				"request_quantity"
+			],
+			[
+				"avera",
+				"average_weight"
+			],
+			[
+				"lineitem",
+				"line_item"
+			],
+			[
+				"addre",
+				"address_1"
+			],
+			[
+				"househo",
+				"household_size"
+			],
+			[
+				"Uns",
+				"UNSPECIFIED"
+			],
+			[
+				"thiparid",
+				"third_party_discount"
+			],
+			[
+				"confm",
+				"confirmation_code"
+			],
+			[
+				"order_rei",
+				"order_received_date"
+			],
+			[
+				"proom",
+				"proto_message"
+			],
+			[
+				"string",
+				"string_a"
+			],
+			[
+				"seria",
+				"serializer"
+			],
+			[
+				"use",
+				"use_message_class"
+			],
+			[
+				"proto",
+				"proto_message"
+			],
+			[
+				"get",
+				"get_attribute"
+			],
+			[
+				"pro",
+				"proto_message"
+			],
+			[
+				"mess",
+				"message_attribute_names"
+			],
+			[
+				"atrb",
+				"attribute_name"
+			],
+			[
+				"setting",
+				"setting_config"
+			],
+			[
+				"set",
+				"setting_config"
+			],
+			[
+				"sate",
+				"SatelliteOrder"
+			],
+			[
+				"dleiorder",
+				"DeliveryOrder"
+			],
+			[
+				"state",
+				"state_name"
+			],
+			[
+				"taxjru",
+				"tax_jurisdiction_id"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"first_",
+				"first_or_create"
+			],
+			[
+				"include",
+				"included_json"
+			],
+			[
+				"saem",
+				"same_members"
+			],
+			[
+				"or",
+				"original"
+			],
+			[
+				"swap",
+				"swap_domain_and_range"
+			],
+			[
+				"Stopa",
+				"StorePaymentMethod"
+			],
+			[
+				"stripaym",
+				"stripe_payment_method"
+			],
+			[
+				"shared",
+				"shared_examples_for"
+			],
+			[
+				"exph",
+				"expectedHeader"
+			],
+			[
+				"store",
+				"store_id"
+			],
+			[
+				"ebt",
+				"ebt_requested"
+			],
+			[
+				"repor",
+				"reporting_class"
+			],
+			[
+				"kee",
+				"KeenEventWorker"
+			],
+			[
+				"current",
+				"current_user"
+			],
+			[
+				"con",
+				"connectivityErrorCodes"
+			],
+			[
+				"rety",
+				"retryDelay"
+			],
+			[
+				"timeou",
+				"timeoutID"
+			],
+			[
+				"repla",
+				"replayErrors"
+			],
+			[
+				"curer",
+				"currentErrors"
+			],
+			[
+				"timout",
+				"timeoutID"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"javas",
+				"javascript_include_tag"
+			],
+			[
+				"rosie",
+				"rosie_consumers"
+			],
+			[
+				"javscip",
+				"javascript_include_tag"
+			],
+			[
+				"dliez",
+				"delivery_zone"
+			],
+			[
+				"picks",
+				"pickup_slot_rule"
+			],
+			[
+				"mt",
+				"match_array"
+			],
+			[
+				"slos",
+				"slots_available"
+			],
+			[
+				"picupsl",
+				"pickup_slot"
+			],
+			[
+				"uav",
+				"unavailable"
+			],
+			[
+				"proli",
+				"productList"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"produ",
+				"product_list"
+			],
+			[
+				"sel",
+				"selectable_by_user"
+			],
+			[
+				"lc",
+				"locations"
+			],
+			[
+				"cale",
+				"calendarComparator"
+			],
+			[
+				"Col",
+				"Collections"
+			],
+			[
+				"slot",
+				"slotType"
+			],
+			[
+				"selected",
+				"selected_pickup_lcoation"
+			],
+			[
+				"sloc",
+				"slotsCollection"
+			],
+			[
+				"day",
+				"dayModel"
+			],
+			[
+				"slotsc",
+				"slotsCalendar"
+			],
+			[
+				"start",
+				"start_time"
+			],
+			[
+				"sloco",
+				"slotsOfCorrectType"
+			],
+			[
+				"slod",
+				"slotDates"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "tra",
+		"selected_items":
+		[
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"history",
+				"Local History: Open"
+			],
+			[
+				"localhi",
+				"Local History: Open"
+			],
+			[
+				"local",
+				"Local History: Browse"
+			],
+			[
+				"git log cur",
+				"git: log current file"
+			],
+			[
+				"git lgo",
+				"git: log"
+			],
+			[
+				"git log",
+				"git: log current file"
+			],
+			[
+				"git blame",
+				"git: blame current file"
+			],
+			[
+				"git log cu",
+				"git: log current file"
+			],
+			[
+				"git log ",
+				"git: log current file"
+			],
+			[
+				"git log curren",
+				"git: log current file"
+			],
+			[
+				"git log c",
+				"git: log current file"
+			],
+			[
+				"git blame cu",
+				"git: blame current file"
+			],
+			[
+				"git blame ",
+				"git: blame current file"
+			],
+			[
+				"git lgo cur",
+				"git: log current file"
+			],
+			[
+				"GIT BLAME ",
+				"git: blame current file"
+			],
+			[
+				"trailing",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"trailin",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"triali",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"trim",
+				"Snippet: attributes_for(:model, attributes)"
+			],
+			[
+				"git blame c",
+				"git: blame current file"
+			],
+			[
+				"git log cure",
+				"git: log current file"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"packremov",
+				"Package Control: Remove Package"
+			],
+			[
+				"packinst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packremove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git blame cur",
+				"git: blame current file"
+			],
+			[
+				"git blam",
+				"git: blame current file"
+			],
+			[
+				"git bla",
+				"git: blame current file"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"space",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"pack isn",
+				"Package Control: Install Package"
+			],
+			[
+				"packinstal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"git lco f",
+				"git: log current file"
+			],
+			[
+				"git loc ",
+				"git: log current file"
+			],
+			[
+				"package control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git log curr",
+				"git: log current file"
+			],
+			[
+				"git blame current file",
+				"git: blame current file"
+			],
+			[
+				"git blamc ",
+				"git: blame current file"
+			],
+			[
+				"prety",
+				"HTMLPrettify"
+			],
+			[
+				"it logcur",
+				"git: log current file"
+			],
+			[
+				"git lo",
+				"git: log current file"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"git l",
+				"git: log current file"
+			],
+			[
+				"git ",
+				"git: commit"
+			],
+			[
+				"line i",
+				"Line Endings Unify"
+			],
+			[
+				"git bl",
+				"git: blame current file"
+			],
+			[
+				"line e",
+				"Line Endings Unify"
+			],
+			[
+				"line end",
+				"Line Endings Unify"
+			],
+			[
+				"pack instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git og",
+				"git: log"
+			],
+			[
+				"gitlo",
+				"git: log current file"
+			],
+			[
+				"gitblame",
+				"git: blame current file"
+			],
+			[
+				"git log current file",
+				"git: log current file"
+			],
+			[
+				"git log curre",
+				"git: log current file"
+			],
+			[
+				"blam",
+				"git: blame current file"
+			],
+			[
+				"git logcur",
+				"git: log current file"
+			],
+			[
+				"packinsta",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"pack remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git locu",
+				"git: log current file"
+			],
+			[
+				"gilo",
+				"git: log current file"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"git lcu",
+				"git: log current file"
+			],
+			[
+				"gitlog",
+				"git: log current file"
+			],
+			[
+				"git dif",
+				"git: diff"
+			],
+			[
+				"gi",
+				"git: diff"
+			],
+			[
+				"git logcu",
+				"git: log current file"
+			],
+			[
+				"git diff",
+				"git: diff"
+			],
+			[
+				"git: log current file",
+				"git: log current file"
+			],
+			[
+				"git: diff current file inline",
+				"git: diff current file inline"
+			],
+			[
+				"dif",
+				"git: diff"
+			],
+			[
+				"pcakins",
+				"Package Control: Install Package"
+			],
+			[
+				"paginstal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 482.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"unzip -l ~/Library/Application\\ Support/Sublime\\ Text\\ 3/Installed\\ Packages/0_package_control_loader.sublime-package",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/conor/software_projects/chess-vision"
+	],
+	"file_history":
+	[
+		"/Users/conor/rosie/opsworks_tasks/lib/file_helpers/lib/config_file.rb",
+		"/Users/conor/rosie/opsworks_tasks/config/export_database_dump.yml",
+		"/Users/conor/rosie/opsworks_tasks/config/database.yml",
+		"/Users/conor/rosie/opsworks_tasks/lib/file_helpers/lib/rosie_server.rb",
+		"/Users/conor/rosie/opsworks_tasks/lib/tasks/lib/base.rb",
+		"/Users/conor/rosie/opsworks_tasks/lib/tasks/tasks.rb",
+		"/Users/conor/rosie/opsworks_tasks/lib/file_helpers/file_helpers.rb",
+		"/Users/conor/rosie/opsworks_tasks/lib/file_helpers/lib/project_root.rb",
+		"/Users/conor/rosie/opsworks_tasks/lib/file_helpers/lib/tmp_directory.rb",
+		"/Users/conor/rosie/opsworks_tasks/tmp/asdf.asdf",
+		"/Users/conor/rosie/opsworks_tasks/lib/file_utils/file_utils.rb",
+		"/Users/conor/rosie/opsworks_tasks/tasks/export_database_dump.rb",
+		"/Users/conor/rosie/cookbooks/rosie_deploy/recipes/application_yml.rb",
+		"/Users/conor/rosie/cookbooks/aws_credentials/attributes/default.rb",
+		"/Users/conor/rosie/cookbooks/aws_credentials/templates/default/config.erb",
+		"/Users/conor/rosie/cookbooks/aws_credentials/recipes/default.rb",
+		"/Users/conor/Library/Application Support/Sublime Text 3/.sublime/Local History/Users/conor/rosie/cookbooks/Berksfile-20170306144332",
+		"/Users/conor/Library/Application Support/Sublime Text 3/.sublime/Local History/Users/conor/rosie/cookbooks/rare/Berksfile-20170307140730.lock",
+		"/Users/conor/rosie/rosie_server/config/application.yml",
+		"/Users/conor/rosie/rosie_server/app/decorators/retailer_api/order/json_api_object.rb",
+		"/Users/conor/rosie/rosie_server/app/decorators/user/store_decorator.rb",
+		"/Users/conor/rosie/opsworks_tasks/tasks/export_database_dump.sh",
+		"/Users/conor/rosie/rosie_server/config/application.yml.example",
+		"/Users/conor/rosie/rosie_server/app/models/order.rb",
+		"/Users/conor/rosie/rosie_server/app/views/user/gift_recipient_mailer/gift_order_ready.html.erb",
+		"/Users/conor/rosie/rosie_server/app/admin/ops/order_cancellation.rb",
+		"/Users/conor/rosie/rosie_server/app/models/stripe_connect_payment.rb",
+		"/Users/conor/rosie/rosie_server/app/models/stripe_payment_base.rb",
+		"/Users/conor/rosie/rosie_server/app/views/admin/orders/cancel.html.erb",
+		"/Users/conor/rosie/rosie_server/app/service_objects/order_event_publisher.rb",
+		"/Users/conor/rosie/rosie_server/lib/service_clients/events/domain_events.rb",
+		"/Users/conor/rosie/rosie_server/config/initializers/messaging_queue.rb",
+		"/Users/conor/rosie/rosie_server/lib/service_clients/events/producers/rabbit_message_queue_producer.rb",
+		"/Users/conor/rosie/rosie_server/Gemfile",
+		"/Users/conor/rosie/rosie_server/VERSION",
+		"/Users/conor/rosie/rosie_server/db/structure.sql",
+		"/Users/conor/rosie/rosie_server/script/db/obfuscator.rb",
+		"/Users/conor/rosie/rosie_server/app/models/order_line_item.rb",
+		"/Users/conor/rosie/rosie_server/app/service_objects/price_calculator.rb",
+		"/Users/conor/rosie/rosie_server/app/uploaders/image_uploader.rb",
+		"/Users/conor/rosie/rosie_server/app/uploaders/banner_image_uploader.rb",
+		"/Users/conor/rosie/rosie_server/spec/models/banner_image_spec.rb",
+		"/Users/conor/rosie/rosie_server/app/models/banner_image.rb",
+		"/Users/conor/rosie/rosie_server/spec/factories/banner_images.rb",
+		"/Users/conor/rosie/rosie_server/app/models/ftp_image_feed.rb",
+		"/Users/conor/rosie/rosie_server/app/models/image_import_feed.rb",
+		"/Users/conor/rosie/rosie_server/app/workers/image_import_worker.rb",
+		"/Users/conor/rosie/rosie_server/app/workers/mailchimp/batch_check_worker.rb",
+		"/Users/conor/rosie/rosie_server/app/workers/category_tree_worker.rb",
+		"/Users/conor/rosie/rosie_server/lib/import/itemmaster/client.rb",
+		"/Users/conor/rosie/rosie_server/app/controllers/v2/user/categories_controller.rb",
+		"/Users/conor/rosie/rosie_server/app/decorators/user/cached/category/api_object.rb",
+		"/Users/conor/rosie/rosie_server/app/decorators/user/category_decorator.rb",
+		"/Users/conor/rosie/rosie_server/app/decorators/user/category_preview_decorator.rb",
+		"/Users/conor/rosie/rosie_server/app/decorators/user/category_preview_collection_decorator.rb",
+		"/Users/conor/rosie/rosie_server/app/decorators/user/cached/category/root_category_cache.rb",
+		"/Users/conor/rosie/rosie_server/app/models/product.rb",
+		"/Users/conor/rosie/rosie_server/app/models/store_product.rb",
+		"/Users/conor/rosie/rosie_server/app/models/search/category_product_search.rb",
+		"/Users/conor/rosie/rosie_server/app/controllers/v2/user/category_products_controller.rb",
+		"/Users/conor/rosie/rosie_server/spec/models/category_spec.rb",
+		"/Users/conor/rosie/rosie_server/app/models/category.rb",
+		"/Users/conor/rosie/rosie_server/app/views/admin/products/category_select.html.erb",
+		"/Users/conor/rosie/rosie_server/app/admin/ops/categories.rb",
+		"/Users/conor/rosie/rosie_server/app/workers/itemmaster_update_worker.rb",
+		"/Users/conor/rosie/rosie_server/app/workers/itemmaster_update_worker_base.rb",
+		"/Users/conor/rosie/rosie_server/app/models/search/store_product_search.rb",
+		"/Users/conor/rosie/rosie_server/lib/mailchimp_client.rb",
+		"/Users/conor/rosie/rosie_server/app/workers/nightly_itemmaster_update_worker.rb",
+		"/Users/conor/rosie/rosie_server/app/controllers/v2/retailer_api/order_transitions_controller.rb",
+		"/Users/conor/rosie/rosie_server/app/models/image_import.rb",
+		"/Users/conor/rosie/rosie_server/app/admin/importers/image_import_feeds.rb",
+		"/Users/conor/rosie/rosie_server/lib/active_protobuf/lib/utilities/safe_message_construction.rb",
+		"/Users/conor/rosie/rosie_server/app/decorators/user/cached/decorator_cache.rb",
+		"/Users/conor/rosie/rosie_server/spec/workers/mailchimp/batch_check_worker_spec.rb",
+		"/Users/conor/rosie/rosie_server/config/initializers/client_side_validations.rb",
+		"/Users/conor/rosie/rosie_server/lib/import/rosie_import_utilities.rb",
+		"/Users/conor/rosie/rosie_server/.codeclimate.yml",
+		"/Users/conor/rosie/rosie_server/script/sidekiq_pusher.rb",
+		"/Users/conor/rosie/rosie_server/app/workers/import/schedule_worker.rb",
+		"/Users/conor/rosie/rosie_server/app/workers/mailchimp_update_worker.rb",
+		"/Users/conor/rosie/rosie_server/config/schedule.rb",
+		"/Users/conor/rosie/rosie_server/app/workers/delivery_provider_email_worker.rb",
+		"/Users/conor/rosie/rosie_server/config/routes.rb",
+		"/Users/conor/rosie/rosie_server/app/models/product_image.rb",
+		"/Users/conor/rosie/rosie_server/app/models/store_e_card.rb",
+		"/Users/conor/rosie/rosie_server/app/uploaders/store_e_card_image_uploader.rb",
+		"/Users/conor/rosie/rosie_server/app/models/placeholder_image.rb",
+		"/Users/conor/rosie/rosie_server/app/uploaders/e_card_image_uploader.rb",
+		"/Users/conor/rosie/rosie_server/app/admin/product_ops/products.rb",
+		"/Users/conor/rosie/rosie_server/app/models/e_card.rb",
+		"/Users/conor/rosie/rosie_server/app/admin/ops/store_product_update_actions.rb",
+		"/Users/conor/rosie/rosie_server/app/models/store_product_update_action.rb",
+		"/Users/conor/rosie/rosie_server/app/models/store_product_update.rb",
+		"/Users/conor/rosie/rosie_server/app/admin/ops/store_product_updates.rb",
+		"/Users/conor/rosie/rosie_server/spec/uploaders/image_uploader_spec.rb",
+		"/Users/conor/rosie/rosie_server/config/initializers/carrierwave.rb",
+		"/Users/conor/rosie/rosie_server/README.md",
+		"/Users/conor/rosie/rosie_server/app/controllers/v2/user/orders_controller.rb",
+		"/Users/conor/rosie/rosie_server/spec/models/store_spec.rb",
+		"/Users/conor/rosie/rosie_server/lib/has_settings.rb",
+		"/Users/conor/rosie/rosie_server/lib/import/dumac_iss45/dumac_iss45_importer.rb",
+		"/Users/conor/rosie/rosie_server/spec/workers/itemmaster_update_worker_spec.rb",
+		"/Users/conor/rosie/rosie_server/lib/import/dumac_iss45/dumac_iss45_product_importer.rb",
+		"/Users/conor/rosie/rosie_server/spec/importers/itemmaster/client_spec.rb",
+		"/Users/conor/Downloads/ECOM-1798_classic_retailers_request.log",
+		"/Users/conor/rosie/rosie_server/solr/conf/schema.xml",
+		"/Users/conor/rosie/rosie_server/lib/import/rosie_store_product_importer.rb",
+		"/Users/conor/rosie/rosie_server/app/admin/ops/users.rb",
+		"/Users/conor/rosie/rosie_server/app/decorators/user/cached/store_product/store_product_cache.rb",
+		"/Users/conor/rosie/rosie_server/config/environments/development.rb",
+		"/Users/conor/rosie/rosie_server/rosie_server.sublime-project",
+		"/Users/conor/rosie/rosie_server/app/admin/users.rb",
+		"/Users/conor/rosie/rosie_server/app/models/pickup_order.rb",
+		"/Users/conor/rosie/rosie_server/lib/import/rosie_store_price_importer.rb",
+		"/Users/conor/rosie/rosie_server/app/decorators/user/cached/store_product/api_object.rb",
+		"/Users/conor/rosie/rosie_server/spec/lib/mailchimp_client_spec.rb",
+		"/Users/conor/rosie/rosie_server/spec/initializers/rate_limiting_spec.rb",
+		"/Users/conor/rosie/rosie_server/spec/importers/niemann/niemann_product_importer_spec.rb",
+		"/Users/conor/rosie/rosie_server/app/mixins/association_schedule.rb",
+		"/Users/conor/rosie/rosie_server/app/models/ach_recipient_schedule.rb",
+		"/Users/conor/rosie/rosie_server/spec/models/ach_recipient_spec.rb",
+		"/Users/conor/rosie/rosie_server/spec/factories/ach_recipient_entries.rb",
+		"/Users/conor/rosie/rosie_server/spec/factories/batches.rb",
+		"/Users/conor/rosie/rosie_server/spec/factories/pickup_slots.rb",
+		"/Users/conor/rosie/rosie_server/app/models/delivery_provider.rb",
+		"/Users/conor/rosie/rosie_server/spec/factories/delivered_batches.rb",
+		"/Users/conor/rosie/rosie_server/spec/decorators/retailer_api/depot_batch/json_api_object_spec.rb"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/conor/rosie/rosie_server/db/migrate",
+			"",
+			"/Users/conor/rosie/rosie_server/spec/serializers/active_protobuf",
+			"",
+			"/Users/conor/rosie/rosie_server/app/serializers",
+			"",
+			"/Users/conor/rosie/rosie_server/spec/serializers/active_protobuf",
+			"/Users/conor/rosie/rosie_server/app/serializers/active_protobuf",
+			"/Users/conor/rosie/rosie_server/spec/serializers/active_protobuf",
+			"",
+			"/Users/conor/rosie/rosie_server/spec",
+			"",
+			"/Users/conor/rosie/rosie_server/spec/serializers",
+			"",
+			"db/",
+			"",
+			"db/",
+			"spec/",
+			"db/",
+			"spec/",
+			"spec",
+			"",
+			"spec/factories",
+			"spec/",
+			"spec",
+			"",
+			"spec/factories",
+			"",
+			"app/admin/ops",
+			"app/admin",
+			"",
+			"app/admin",
+			"",
+			"app/admin",
+			"",
+			"app/admin",
+			"",
+			"app/admin",
+			"/app/admin",
+			"",
+			"./app/admin",
+			"./admin",
+			"/admin",
+			"./admin",
+			"admin",
+			"",
+			"-*/assets/*",
+			"!app/assets",
+			"",
+			"db/migrate",
+			"",
+			"app/assets/javascripts",
+			"",
+			"app/assets/stylesheets",
+			"",
+			"app/assets/stylesheets",
+			"",
+			"app/assets/javascripts",
+			"",
+			"./app/assets/javascripts",
+			"./app/javascripts",
+			"app/javascripts",
+			"./application/javascripts",
+			"application/javascripts",
+			"application/js",
+			"",
+			"db/migrate",
+			"",
+			"spec/",
+			"spec",
+			"",
+			"app/assets",
+			"",
+			"app/models",
+			"",
+			"spec/",
+			"/spec",
+			"spec",
+			"",
+			"app/assets",
+			"",
+			"app/assets",
+			"",
+			"app/assets",
+			"",
+			"app/assets",
+			"",
+			"app/assets/stylesheets",
+			"",
+			"app/assets",
+			"",
+			"app/assets",
+			"assets",
+			"",
+			"app/assets",
+			"",
+			"app/assets",
+			"",
+			"/Users/conor/rosie/rosie_server/app/controllers/api/v1",
+			"",
+			"db/migrate",
+			"",
+			"/Users/conor/rosie/rosie_server/app/assets/javascripts",
+			"",
+			"/Users/conor/rosie/rosie_server/app/assets/javascripts",
+			"",
+			"/Users/conor/rosie/rosie_server/app/assets/javascripts/views",
+			"",
+			"/Users/conor/rosie/rosie_server/app/assets/javascripts",
+			"",
+			"/Users/conor/rosie/rosie_server/app/assets/javascripts",
+			"",
+			"/Users/conor/rosie/rosie_server/app/decorators/loyalty_api",
+			"",
+			"/Users/conor/rosie/rosie_server/spec",
+			"",
+			"/Users/conor/rosie/rosie_server/app/decorators/user",
+			"",
+			"/Users/conor/rosie/rosie_server/app/assets/javascripts",
+			"",
+			"/Users/conor/rosie/rosie_server/app/assets",
+			"/Users/conor/rosie/rosie_server/app/assets/templates",
+			"/Users/conor/rosie/rosie_server/app/assets/javascripts/views",
+			"/Users/conor/rosie/rosie_server/app/assets/javascripts/models",
+			"/Users/conor/rosie/rosie_server/app/assets/javascripts",
+			"/Users/conor/rosie/rosie_server/app/assets/stylesheets",
+			"/Users/conor/rosie/rosie_server/app/assets/javascripts"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"TASK_CONFIG",
+			"task_config",
+			"script ",
+			"script",
+			"user deploy[:user]",
+			"user",
+			"deploy",
+			"rosie_worker",
+			"deploy",
+			"password",
+			"cors",
+			"keep",
+			"ach_nacha_files",
+			"ach_recipient_entries",
+			"updated_at",
+			"carrierwave_bucket",
+			"DomainEvents.instance",
+			"producer",
+			"DomainEvents.instance.connect",
+			"publish",
+			"gift",
+			"gift_order_ready",
+			"access_token",
+			"create_charge_above_minimum",
+			"gateway_failed",
+			"Invalid API Key provided",
+			"gift",
+			"pending",
+			"gift",
+			"placed",
+			"gift",
+			"gifrt",
+			"gifr",
+			"gift",
+			"subtotal",
+			"build_banner_image",
+			"category_names",
+			"categor",
+			"searchable",
+			"searchable ",
+			"searchable",
+			"fulltext ",
+			"basic_restrictions",
+			"products_in_category_search",
+			"CategoryPreviewCollectionDecorator",
+			"CategoryPreviewDecorator",
+			"CategoryPreviewCollectionDecorator",
+			"category_tree",
+			"NewRelic::Agent.notice_error(",
+			"failed after",
+			"raise",
+			"ApiRequestFailureException",
+			"handle_api_error",
+			"requeue_job",
+			"scheduled for retry",
+			"ApiRequestFailureException",
+			"Sidekiq client with redis options",
+			"with redis options",
+			"Sidekiq client with redis options",
+			"logger",
+			"newrelic",
+			"execute_get",
+			"run_active",
+			"new_files",
+			"FtpImageFeed",
+			"new_files",
+			"process_oldest_zip_file",
+			"connect_to_ftp",
+			"cannot log in",
+			"child_categories",
+			"child_categories_with_products",
+			"def self.",
+			"strip_hash",
+			"climate",
+			"code",
+			"rubocop",
+			"strip_hash",
+			"response[",
+			"response",
+			"response[",
+			"newrelic",
+			"mailchimp_worker_maximum_retries",
+			"handle_unfinished_response",
+			"handle_finished_response",
+			"handle_unfinished_response",
+			"image.geometry",
+			"def update_dimensions",
+			"product_image",
+			"placeholder_image",
+			"\\WImageUploader",
+			"category_ids",
+			"child_categories_with_products",
+			"image",
+			"default",
+			"StoreProductUpdateAction",
+			"\\WImageUploader",
+			"\\dImageUploader",
+			"\\DImageUploader",
+			"def get_geometry",
+			"def geometry",
+			"def geometry ",
+			"image.geometry",
+			"ImageUploader",
+			"CarrierWave::Uploader::Base",
+			"geometry",
+			"    self.width = geometry[:width]\n    self.height = geometry[:height]",
+			"fog",
+			"ImageUploader",
+			"valid",
+			".file",
+			"update_from_array",
+			" ",
+			"pending",
+			"place_order",
+			"Actions\\n",
+			"start_import",
+			"NewRelic::Agent.notice_error",
+			"notice_error",
+			"newrelic",
+			"execute_get",
+			"active_items",
+			"load_last_sold_dates",
+			"sold",
+			"cache",
+			"def bespoke_upc?",
+			"cache",
+			"solr",
+			"_words"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_",
+			"",
+			"'",
+			"r",
+			"expect(subject.amount).to eq $1",
+			"create",
+			"expect(subject.amount).to eq $1",
+			"amount",
+			"payment_type",
+			"eq",
+			"fee_bye_type",
+			"of the final customer total",
+			"of the esimated customer total",
+			"describe",
+			"'",
+			"",
+			"'",
+			"\\n",
+			"new_",
+			"'",
+			"expected_methods",
+			"'",
+			"it { is_expected.to be_truthy }",
+			"it { is_expected.to be_falsey }",
+			"0Sii0ix5oSNWz33Ynlen",
+			"isConnectivityError",
+			"updateCountdownMessage",
+			"",
+			"store-map__caption",
+			"store-map",
+			"public/pdf_images",
+			"pdf_images/temperature_icons/$1",
+			"pdf_images/",
+			"pdf_images/pick-list-logo-large-black.png",
+			"'",
+			"$1 = $2",
+			"$1 = {}",
+			"value: \"\"",
+			"trigger: true",
+			"$1> $2",
+			"$1> $2 ",
+			"$2> ",
+			"$1 $2>",
+			"$1 ->",
+			"\\: ",
+			": ",
+			" 0$1",
+			" 0.$1",
+			"$cartWidth",
+			"selected_pickup_location",
+			"_deferred_deletions",
+			"_deferredDeletions",
+			"comparator",
+			"_comparator",
+			"reference",
+			"one request",
+			"one request refrence",
+			"two request references",
+			"2",
+			"1",
+			"store_product_b",
+			"store_product_a",
+			"$3",
+			"'",
+			"",
+			"@currentUser()",
+			"Radio.channel('sessions').request('current_user')",
+			"$1$2",
+			"$2$3",
+			"$2 $3",
+			"$2",
+			"addRoute($1() => $2())",
+			"addroute($1() => $2())",
+			"@newStore",
+			"",
+			"pageHeaderHeight",
+			"pageFooterHeight",
+			"count",
+			"target_department",
+			"free_entry",
+			" legend",
+			"'",
+			"create_list(:store_department",
+			"title",
+			"app",
+			"",
+			"window.app.mainLayout",
+			"50",
+			"handle_request_exceptions",
+			"serialized_response",
+			"build_serialized_response",
+			"\"",
+			"\\n",
+			"::JsonApi",
+			"JsonApi::V1_0::DecoratesObject",
+			"JsonApi::V1_0::DecoratesCollection"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "chess-vision.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"appli",
+				"rosie_deploy/recipes/application_yml.rb"
+			],
+			[
+				"rosdepsetu",
+				"rosie_deploy/recipes/setup.rb"
+			],
+			[
+				"rosisersetup",
+				"rosie_server/recipes/setup.rb"
+			],
+			[
+				"berksf",
+				"Berksfile"
+			],
+			[
+				"berksfil",
+				"Berksfile"
+			],
+			[
+				"berks",
+				"Berksfile"
+			],
+			[
+				"dbdump",
+				"script/db/dump_db.rb"
+			],
+			[
+				"decostored",
+				"app/decorators/user/store_decorator.rb"
+			],
+			[
+				"app/decorators/retailer_api/order/json_api_object.rb",
+				"app/decorators/retailer_api/order/json_api_object.rb"
+			],
+			[
+				"appymlex",
+				"config/application.yml.example"
+			],
+			[
+				"appli.",
+				"config/application.yml"
+			],
+			[
+				"obfus",
+				"script/db/obfuscator.rb"
+			],
+			[
+				"struc",
+				"db/structure.sql"
+			],
+			[
+				"version",
+				"VERSION"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"appym",
+				"config/application.yml"
+			],
+			[
+				"queuproduce",
+				"lib/service_clients/events/producers/rabbit_message_queue_producer.rb"
+			],
+			[
+				"domaine",
+				"lib/service_clients/events/domain_events.rb"
+			],
+			[
+				"adminordercacn",
+				"app/admin/ops/order_cancellation.rb"
+			],
+			[
+				"admincacnel",
+				"app/views/admin/orders/cancel.html.erb"
+			],
+			[
+				"domainevne",
+				"lib/service_clients/events/domain_events.rb"
+			],
+			[
+				"orderevenpub",
+				"app/service_objects/order_event_publisher.rb"
+			],
+			[
+				"giftorderready",
+				"app/views/user/gift_recipient_mailer/gift_order_ready.html.erb"
+			],
+			[
+				"stripeconnectpay",
+				"app/models/stripe_connect_payment.rb"
+			],
+			[
+				"strippaymbase",
+				"app/models/stripe_payment_base.rb"
+			],
+			[
+				"ordereventpublisher",
+				"app/service_objects/order_event_publisher.rb"
+			],
+			[
+				"pricecalcul",
+				"app/service_objects/price_calculator.rb"
+			],
+			[
+				"orderlinitem",
+				"app/models/order_line_item.rb"
+			],
+			[
+				"lineitem.rb",
+				"app/models/order_line_item.rb"
+			],
+			[
+				"order.rb",
+				"app/models/order.rb"
+			],
+			[
+				"bannerimages",
+				"spec/factories/banner_images.rb"
+			],
+			[
+				"banenrimage",
+				"app/models/banner_image.rb"
+			],
+			[
+				"bannerimage.",
+				"app/models/banner_image.rb"
+			],
+			[
+				"banimupload",
+				"app/uploaders/banner_image_uploader.rb"
+			],
+			[
+				"banenrimages",
+				"spec/factories/banner_images.rb"
+			],
+			[
+				"imageuploader",
+				"app/uploaders/image_uploader.rb"
+			],
+			[
+				"banimspec",
+				"spec/models/banner_image_spec.rb"
+			],
+			[
+				"catespec",
+				"spec/models/category_spec.rb"
+			],
+			[
+				"admincateg",
+				"app/admin/ops/categories.rb"
+			],
+			[
+				"admincategory",
+				"app/views/admin/products/category_select.html.erb"
+			],
+			[
+				"bannerimage",
+				"app/models/banner_image.rb"
+			],
+			[
+				"bannimupload",
+				"app/uploaders/banner_image_uploader.rb"
+			],
+			[
+				"bannerimages.rb",
+				"spec/factories/banner_images.rb"
+			],
+			[
+				"bannimspe",
+				"spec/models/banner_image_spec.rb"
+			],
+			[
+				"bannerimagespec",
+				"spec/models/banner_image_spec.rb"
+			],
+			[
+				"category.rb",
+				"app/models/category.rb"
+			],
+			[
+				"product.rb",
+				"app/models/product.rb"
+			],
+			[
+				"storeproduct",
+				"app/models/store_product.rb"
+			],
+			[
+				"stoprosear",
+				"app/models/search/store_product_search.rb"
+			],
+			[
+				"storepro",
+				"app/models/store_product.rb"
+			],
+			[
+				"categoryproductsearch",
+				"app/models/search/category_product_search.rb"
+			],
+			[
+				"category",
+				"app/models/category.rb"
+			],
+			[
+				"categorycontol",
+				"app/controllers/v2/user/category_products_controller.rb"
+			],
+			[
+				"itmupwobase",
+				"app/workers/itemmaster_update_worker_base.rb"
+			],
+			[
+				"itemwor",
+				"app/workers/itemmaster_update_worker.rb"
+			],
+			[
+				"itemwoker",
+				"app/workers/itemmaster_update_worker.rb"
+			],
+			[
+				"categdeco",
+				"app/decorators/user/category_decorator.rb"
+			],
+			[
+				"cateapiobject",
+				"app/decorators/user/cached/category/api_object.rb"
+			],
+			[
+				"catcontoler",
+				"app/controllers/v2/user/categories_controller.rb"
+			],
+			[
+				"cachcatapiobj",
+				"app/decorators/user/cached/category/api_object.rb"
+			],
+			[
+				"categodecor",
+				"app/decorators/user/category_decorator.rb"
+			],
+			[
+				"categocontoler",
+				"app/controllers/v2/user/categories_controller.rb"
+			],
+			[
+				"catedecorator",
+				"app/decorators/user/category_decorator.rb"
+			],
+			[
+				"adminorder",
+				"app/admin/ops/order_cancellation.rb"
+			],
+			[
+				"adminorcacne",
+				"app/views/admin/orders/cancel.html.erb"
+			],
+			[
+				"catepredeco",
+				"app/decorators/user/category_preview_collection_decorator.rb"
+			],
+			[
+				"rootcatcach",
+				"app/decorators/user/cached/category/root_category_cache.rb"
+			],
+			[
+				"catego",
+				"app/models/category.rb"
+			],
+			[
+				"categotrewo",
+				"app/workers/category_tree_worker.rb"
+			],
+			[
+				"mailchiclie",
+				"lib/mailchimp_client.rb"
+			],
+			[
+				"itemclient",
+				"lib/import/itemmaster/client.rb"
+			],
+			[
+				"itemupdateworker",
+				"app/workers/itemmaster_update_worker.rb"
+			],
+			[
+				"itemupwobase",
+				"app/workers/itemmaster_update_worker_base.rb"
+			],
+			[
+				"ordertrancontoler",
+				"app/controllers/v2/retailer_api/order_transitions_controller.rb"
+			],
+			[
+				"ftpimfeed",
+				"app/models/ftp_image_feed.rb"
+			],
+			[
+				"safemesconst",
+				"lib/active_protobuf/lib/utilities/safe_message_construction.rb"
+			],
+			[
+				"catapiobject",
+				"app/decorators/user/cached/category/api_object.rb"
+			],
+			[
+				"deccache",
+				"app/decorators/user/cached/decorator_cache.rb"
+			],
+			[
+				"rootcatcache",
+				"app/decorators/user/cached/category/root_category_cache.rb"
+			],
+			[
+				"categor",
+				"app/models/category.rb"
+			],
+			[
+				"rabbitmepr",
+				"lib/service_clients/events/producers/rabbit_message_queue_producer.rb"
+			],
+			[
+				"admincatgo",
+				"app/admin/ops/categories.rb"
+			],
+			[
+				"codeclimte",
+				".codeclimate.yml"
+			],
+			[
+				"roimporutil",
+				"lib/import/rosie_import_utilities.rb"
+			],
+			[
+				"cliensidevali",
+				"config/initializers/client_side_validations.rb"
+			],
+			[
+				"batchecworker",
+				"app/workers/mailchimp/batch_check_worker.rb"
+			],
+			[
+				"bathchworkspe",
+				"spec/workers/mailchimp/batch_check_worker_spec.rb"
+			],
+			[
+				"mailchimpcli",
+				"lib/mailchimp_client.rb"
+			],
+			[
+				"batchch",
+				"app/workers/mailchimp/batch_check_worker.rb"
+			],
+			[
+				"deliveryprovideremailworker",
+				"app/workers/delivery_provider_email_worker.rb"
+			],
+			[
+				"impschwok",
+				"app/workers/import/schedule_worker.rb"
+			],
+			[
+				"sidekiq_pusher",
+				"script/sidekiq_pusher.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"schedul",
+				"config/schedule.rb"
+			],
+			[
+				"mailwoke",
+				"app/workers/mailchimp_update_worker.rb"
+			],
+			[
+				"schedule",
+				"config/schedule.rb"
+			],
+			[
+				"ap.ymlx",
+				"config/application.yml.example"
+			],
+			[
+				"app.yml",
+				"config/application.yml"
+			],
+			[
+				"batchwospec",
+				"spec/workers/mailchimp/batch_check_worker_spec.rb"
+			],
+			[
+				"mailchclie",
+				"lib/mailchimp_client.rb"
+			],
+			[
+				"appli.yml",
+				"config/application.yml"
+			],
+			[
+				"batchcheckwo",
+				"app/workers/mailchimp/batch_check_worker.rb"
+			],
+			[
+				"batchchek",
+				"app/workers/mailchimp/batch_check_worker.rb"
+			],
+			[
+				"productimage",
+				"app/models/product_image.rb"
+			],
+			[
+				"stoecarimup",
+				"app/uploaders/store_e_card_image_uploader.rb"
+			],
+			[
+				"stoecarimagupl",
+				"app/uploaders/store_e_card_image_uploader.rb"
+			],
+			[
+				"adminproduct",
+				"app/admin/product_ops/products.rb"
+			],
+			[
+				"ecard",
+				"app/models/e_card.rb"
+			],
+			[
+				"bannerimageuploader",
+				"app/uploaders/banner_image_uploader.rb"
+			],
+			[
+				"admincategories",
+				"app/admin/ops/categories.rb"
+			],
+			[
+				"produ.",
+				"app/models/product.rb"
+			],
+			[
+				"rootcategorycache",
+				"app/decorators/user/cached/category/root_category_cache.rb"
+			],
+			[
+				"storepupd",
+				"app/models/store_product_update.rb"
+			],
+			[
+				"stoprupaction",
+				"app/models/store_product_update_action.rb"
+			],
+			[
+				"adminstoproupdate",
+				"app/admin/ops/store_product_updates.rb"
+			],
+			[
+				"imageuploadspec",
+				"spec/uploaders/image_uploader_spec.rb"
+			],
+			[
+				"laholimage",
+				"app/models/placeholder_image.rb"
+			],
+			[
+				"bannerim",
+				"app/models/banner_image.rb"
+			],
+			[
+				"ecaimup",
+				"app/uploaders/e_card_image_uploader.rb"
+			],
+			[
+				"bannimage",
+				"app/models/banner_image.rb"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"placehoimage",
+				"app/models/placeholder_image.rb"
+			],
+			[
+				"bannimaguploader",
+				"app/uploaders/banner_image_uploader.rb"
+			],
+			[
+				"mailclien",
+				"lib/mailchimp_client.rb"
+			],
+			[
+				"banerimage",
+				"app/models/banner_image.rb"
+			],
+			[
+				"banerimages",
+				"spec/factories/banner_images.rb"
+			],
+			[
+				"catspec.rb",
+				"spec/models/category_spec.rb"
+			],
+			[
+				"storespe",
+				"spec/models/store_spec.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 611.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 588.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
