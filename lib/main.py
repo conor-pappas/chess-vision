@@ -1,23 +1,16 @@
 from data import load_position
-from detect import hough_peaks
-from plotting import imshow, plot_lines, plot_corners, plot_polar, plot_point
+from detect import find_chessboard
+from plotting import imshow, plot_points
 import matplotlib.pyplot as plt
 import skimage
-from candidate_line import CandidateLine
-import itertools
+
   
-position_name = 'roy_lopez_marshall_attack.png'
-orig = skimage.transform.rotate(load_position(position_name), 1)
+position_name = 'exchange_french_rubinstein.png'
+orig = skimage.transform.rotate(load_position(position_name), 90)
 
-a, angles, dists = hough_peaks(orig)
-candidates = (CandidateLine(r, theta) for theta, r in zip(angles, dists))
-
-groups = list(list(group) for k,group in itertools.groupby(candidates))
-line_pairs = itertools.product(groups[0], groups[1])
+chessboard = find_chessboard(orig)
 
 fig, ax = plt.subplots()
 imshow(ax, orig)
-for pair in line_pairs:
-  i = pair[0].intersection_with(pair[1])
-  plot_point(ax, i)
+plot_points(ax, chessboard.all_intersections())
 plt.show()
