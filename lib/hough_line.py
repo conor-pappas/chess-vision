@@ -39,6 +39,7 @@ class HoughLine:
     return np.arctan(1/(other.__intersection_b__value() - self.distance))
 
   def intersection_with(self, other):
+    # TODO this assumes that the lines are perpendicular
     if self.__angle_sin() == 0:
       return (self.distance, other.distance)
     else:
