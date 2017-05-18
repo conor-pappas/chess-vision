@@ -5,7 +5,7 @@ class Chessboard:
   def __init__(self, lines): 
     lines.sort()
     sets = list(list(group) for k,group in itertools.groupby(lines))
-    self.__assign_line_sets(lines)
+    self.__assign_line_sets(sets)
 
   def __assign_line_sets(self, sets):
     # TODO For now we assume that we only found two directions of lines
