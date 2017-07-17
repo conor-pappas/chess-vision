@@ -35,13 +35,16 @@ class HoughLine:
   def __angle_cot(self): 
     return 1/np.tan(self.angle)
 
-  def __degenerate_coefficient(self, other):
-    return np.arctan(1/(other.__intersection_b__value() - self.distance))
-
   def intersection_with(self, other):
-    # TODO this assumes that the lines are perpendicular
+    # If either of the lines are vertical, the equations are degenerate and require
+    # a different solution.
     if self.__angle_sin() == 0:
-      return (self.distance, other.distance)
+      y_coord = other.__intersection_b__value() - (other.__angle_cot() * self.distance)
+      return (self.distance, y_coord)
+    elif other.__angle_sin() == 0:
+      # We can swap the arguments to get to the code path of the first conditional
+      return other.intersection_with(self)
+    # Otherwise, we can just solve the matrix
     else:
       a = [self.__intersection_a_vector(), other.__intersection_a_vector()]
       b = [self.__intersection_b__value(), other.__intersection_b__value()]

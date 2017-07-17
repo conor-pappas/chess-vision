@@ -4,6 +4,7 @@ class Chessboard:
 
   def __init__(self, lines): 
     lines.sort()
+    # This groups the lines into sets of lines that have the same angle
     sets = list(list(group) for k,group in itertools.groupby(lines))
     self.__assign_line_sets(sets)
 

@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 import skimage
 
   
-position_name = 'exchange_french_rubinstein.png'
-orig = skimage.transform.rotate(load_position(position_name), 90)
+position_name = 'starting_position.png'
+orig = skimage.transform.rotate(load_position(position_name), 0)
 
 chessboard = find_chessboard(orig)
 
