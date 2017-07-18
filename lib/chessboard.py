@@ -6,9 +6,9 @@ class Chessboard:
     lines.sort()
     # This groups the lines into sets of lines that have the same angle
     sets = list(list(group) for k,group in itertools.groupby(lines))
-    self.__assign_line_sets(sets)
+    self._assign_line_sets(sets)
 
-  def __assign_line_sets(self, sets):
+  def _assign_line_sets(self, sets):
     # TODO For now we assume that we only found two directions of lines
     self.horizontal_lines = sets[0]
     self.vertical_lines = sets[1]
